@@ -1,0 +1,43 @@
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\QAWorksAssessmentProject.dll.config
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\QAWorksAssessmentProject.dll
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\QAWorksAssessmentProject.pdb
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\Autofac.Configuration.dll
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\Autofac.dll
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\Baseclass.Contrib.SpecFlow.Selenium.NUnit.Bindings.dll
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\Baseclass.Contrib.SpecFlow.Selenium.NUnit.SpecFlowPlugin.dll
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\ImpromptuInterface.dll
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\nunit.framework.dll
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\SpecFlow.Assist.Dynamic.dll
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\WebDriver.dll
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\WebDriver.Support.dll
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\Autofac.xml
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\Autofac.Configuration.xml
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\ImpromptuInterface.xml
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\nunit.framework.xml
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\WebDriver.xml
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\WebDriver.Support.xml
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\obj\Debug\QAWorksAssessmentProject.dll
+C:\Users\Lambert\Documents\Visual Studio 2012\Projects\QAWorksAssessmentProject\QAWorksAssessmentProject\obj\Debug\QAWorksAssessmentProject.pdb
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\QAWorksAssessmentProject.dll.config
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\QAWorksAssessmentProject.dll
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\QAWorksAssessmentProject.pdb
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\Autofac.Configuration.dll
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\Autofac.dll
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\Baseclass.Contrib.SpecFlow.Selenium.NUnit.Bindings.dll
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\Baseclass.Contrib.SpecFlow.Selenium.NUnit.SpecFlowPlugin.dll
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\ImpromptuInterface.dll
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\nunit.framework.dll
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\SpecFlow.Assist.Dynamic.dll
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\WebDriver.dll
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\WebDriver.Support.dll
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\Autofac.xml
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\Autofac.Configuration.xml
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\ImpromptuInterface.xml
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\nunit.framework.xml
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\WebDriver.xml
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\bin\Debug\WebDriver.Support.xml
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\obj\Debug\QAWorksAssessmentProject.csprojResolveAssemblyReference.cache
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\obj\Debug\QAWorksAssessmentProject.dll
+C:\Users\Lambert\Documents\GitHub\QAWorksAssessmentProject\QAWorksAssessmentProject\obj\Debug\QAWorksAssessmentProject.pdb
